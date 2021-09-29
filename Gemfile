@@ -30,6 +30,8 @@ gem 'bootsnap', '>= 1.4.4', require: false
 
 # A modern CSS framework based on Flexbox
 gem 'bulma-rails', '~> 0.9.1'
+# font-awesome-rails provides the Font-Awesome web fonts and stylesheets as a Rails engine for use with the asset pipeline.
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.7'
 # Forms made easy!
 gem 'simple_form', '~> 5.1'
 # A configurable and documented Rails view helper for adding gravatars into your Rails application.
